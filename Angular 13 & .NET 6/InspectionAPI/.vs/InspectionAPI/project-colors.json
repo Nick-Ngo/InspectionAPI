@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3cc2fd4b-07f0-469c-bbd1-2271ecfa8361": {
+      "ProjectGuid": "3cc2fd4b-07f0-469c-bbd1-2271ecfa8361",
+      "DisplayName": "InspectionAPI",
+      "ColorIndex": 0
+    },
+    "df49a9e9-d9aa-48e8-924b-12dba3f79859": {
+      "ProjectGuid": "df49a9e9-d9aa-48e8-924b-12dba3f79859",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
